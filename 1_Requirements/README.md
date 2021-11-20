@@ -11,7 +11,8 @@ Besides, the user can edit information as well as remove a patient’s whole dat
 
 ## Features
 
-- Proper Details of the Patient.
-- Validation
-- Easy to add, retrieve, modify and delete records of the patient.
-- Memory usuage is less.
+- Add patient records
+- View available records
+- Search patient by name, disease, age, cabin number
+- Edit records
+- Delete patient’s record
