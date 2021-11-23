@@ -9,14 +9,6 @@ The user can also view all the available patient records.
 Such as details and search a patient by its name, age, disease, cabin number. 
 Besides, the user can edit information as well as remove a patient’s whole date or only his/her name, phone number, disease name, cabin number.
 
-## Features
-
-- Add patient records
-- View available records
-- Search patient by name, disease, age, cabin number
-- Edit records
-- Delete patient’s record
-
 
 # Tools
 
