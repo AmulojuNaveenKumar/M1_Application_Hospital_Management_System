@@ -1,4 +1,4 @@
-# Non Functional Requirements 
+# Low Level Requirements 
 
 There are a lot of software requirements specifications included in the low level requirements of the Hospital Management System, which contains various process, namely Security, Performance, Maintainability, and Reliability.
 
