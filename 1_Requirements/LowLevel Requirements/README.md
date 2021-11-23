@@ -38,4 +38,3 @@ There are a lot of software requirements specifications included in the low leve
 
 ● Availability: The system is available all the time. 
 
-Hope you got a clear idea on the functional and non-functional requirements and the features required by the hospital. Any other queries on the topic are welcome.
