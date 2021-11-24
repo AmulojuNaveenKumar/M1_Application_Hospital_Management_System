@@ -1,5 +1,7 @@
 # Requirements
-## _Introduction_
+
+
+## Introduction
 
 The project Hospital Management System is a database where we can get all the informations about the medical condition and medical rescords of the patient. Here we collect the data of the patient and store it for the fture purpose and i t can be only accessed by the hospital officials for the future referance purpose of the patient.
 
