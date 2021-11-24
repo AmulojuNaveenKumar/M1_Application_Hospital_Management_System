@@ -5,8 +5,8 @@ PROJECT_NAME = Hospital Management System
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
-src/hospital_management_system.c
+SRC = main.c\
+src/main.c
 
 # All test source files
 TEST_SRC = src/hospital_management_system.c\
