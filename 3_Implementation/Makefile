@@ -1,17 +1,42 @@
+/**
+ * @file main.c
+ * @author prassanna
+ * @brief 
+ * @version 0.1
+ * @date 2021-11-23
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 # Name of the project
-PROJECT_NAME = Hospital Management System
+PROJECT_NAME = HospitaltManagementSystem
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = main.c\
-src/main.c
+SRC = project_main.c\
+src/hosapitalmain.c
 
 # All test source files
-TEST_SRC = src/hospital_management_system.c\
-test/test_hospital_management_system.c\
+TEST_SRC = src/hosapitalmain.c\
+test/test_hosapitalmain.c\
 unity/unity.c\
+
+target : project_main.c hosapitalmain.c HMS.h
+	gcc project_main.c hosapitalmain.c -o all.out
+#To check if the OS is Windows or Linux and set the executable file extension and delete command accordingly
+ifdef OS
+   RM = del /q
+   FixPath = $(subst /,\,$1)
+   EXEC = exe
+else
+   ifeq ($(shell uname), Linux)
+      RM = rm -rf
+      FixPath = $1
+	  EXEC = out
+   endif
+endif
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
@@ -66,7 +91,7 @@ sanitize_check:
 coverage:$(TEST_SRC)
 	gcc -fprofile-arcs -ftest-coverage $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
 	./$(TEST_OUTPUT)
-	gcov -a hospital_management_system.c
+	gcov -a contact_management.c
 
 # Remove all the built files, invoke by `make clean`
 clean:
