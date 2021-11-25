@@ -10,6 +10,8 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/amulojunaveenkumar/m1_application_hospital_management_system/badge)](https://www.codefactor.io/repository/github/amulojunaveenkumar/m1_application_hospital_management_system)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/61e4237af5dc4ec098bd164261ab5ce0)](https://www.codacy.com/gh/AmulojuNaveenKumar/M1_Application_Hospital_Management_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AmulojuNaveenKumar/M1_Application_Hospital_Management_System&amp;utm_campaign=Badge_Grade)
+
 <img src="https://app.codiga.io/public/project/30078/M1_Application_Hospital_Management_System/dashboard">
 
 ## Folder Structure
