@@ -4,6 +4,10 @@
 
 [![Static code Cppcheck](https://github.com/AmulojuNaveenKumar/M1_Application_Hospital_Management_System/actions/workflows/c_cpp.yml/badge.svg)](https://github.com/AmulojuNaveenKumar/M1_Application_Hospital_Management_System/actions/workflows/c_cpp.yml)
 
+<img src="https://api.codiga.io/project/30078/score/svg">
+
+<img src="https://api.codiga.io/project/30078/status/svg">
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
