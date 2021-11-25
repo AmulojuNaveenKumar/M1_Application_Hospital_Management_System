@@ -8,6 +8,8 @@
 
 <img src="https://api.codiga.io/project/30078/status/svg">
 
+[![CodeFactor](https://www.codefactor.io/repository/github/amulojunaveenkumar/m1_application_hospital_management_system/badge)](https://www.codefactor.io/repository/github/amulojunaveenkumar/m1_application_hospital_management_system)
+
 <img src="https://app.codiga.io/public/project/30078/M1_Application_Hospital_Management_System/dashboard">
 
 ## Folder Structure
