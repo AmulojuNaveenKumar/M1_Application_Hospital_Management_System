@@ -8,6 +8,8 @@
 
 <img src="https://api.codiga.io/project/30078/status/svg">
 
+<img src="https://app.codiga.io/public/project/30078/M1_Application_Hospital_Management_System/dashboard">
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
