@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/AmulojuNaveenKumar/M1_Application_Hospital_Management_System/actions/workflows/main.yml/badge.svg)](https://github.com/AmulojuNaveenKumar/M1_Application_Hospital_Management_System/actions/workflows/main.yml)
 
+[![Static code Cppcheck](https://github.com/AmulojuNaveenKumar/M1_Application_Hospital_Management_System/actions/workflows/c_cpp.yml/badge.svg)](https://github.com/AmulojuNaveenKumar/M1_Application_Hospital_Management_System/actions/workflows/c_cpp.yml)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
