@@ -9,18 +9,18 @@
  * 
  */
 # Name of the project
-PROJECT_NAME = HospitaltManagementSystem
+PROJECT_NAME = Hospital_Management_System
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
-src/hosapitalmain.c
+SRC = Src/HMS.c\
+src/HMS.c
 
 # All test source files
-TEST_SRC = src/hosapitalmain.c\
-test/test_hosapitalmain.c\
+TEST_SRC = unity/unity.c\
+test/test_HMS.c\
 unity/unity.c\
 
 target : project_main.c hosapitalmain.c HMS.h
